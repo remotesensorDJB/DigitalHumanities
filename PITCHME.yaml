@@ -1,4 +1,4 @@
-theme : black
-background : images/grey-bg.jpg
+theme : sky
+background : images/green-bg.jpg
 transition : fade
 logo : images/ulcgis.png
