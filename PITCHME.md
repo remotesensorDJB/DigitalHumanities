@@ -4,8 +4,8 @@
 #### University of Louisville
 ---
 ## The Plan
-- digital humanities...what's in a name?
-- Institutional setting
+- Digital Humanities...what's in a name?
+- Institutional Setting
 - A game of telephone
 - Mapping the Humanities
 - DH Projects @ UofL
