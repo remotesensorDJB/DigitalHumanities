@@ -7,4 +7,5 @@
 - digital humanities...what's in a name?
 - Institutional setting
 - A game of telephone
-- Projects @ UofL
+- Mapping the Humanities
+- DH Projects @ UofL
